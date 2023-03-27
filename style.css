@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(90deg, rgb(50, 50, 233),rgb(15, 101, 172)) no-repeat fixed;
+}
+#bienvenido {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    
+    background-color: hsl(0, 0%, 95%);
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
